@@ -1,0 +1,6 @@
+{
+    "user":"$student", 
+    "token":"",  
+    "cache":"$cacheConfig", 
+    "lastLogin":"" 
+}

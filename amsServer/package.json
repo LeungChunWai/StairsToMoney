@@ -1,0 +1,31 @@
+{
+  "name": "ams",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "body-parser": "^1.19.0",
+    "consola": "^2.11.3",
+    "express": "^4.17.1",
+    "express-art-template": "^1.0.1",
+    "glob": "^7.1.6",
+    "koa": "^2.11.0",
+    "koa-body": "^4.1.1",
+    "koa-router": "^8.0.8",
+    "mongoose": "^5.9.9",
+    "nuxt": "^2.12.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
